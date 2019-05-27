@@ -8,6 +8,8 @@
 
 
 
+##### 개발 도구
+
 visual studio 2013으로 개발
 
 클라이언트 : 유니티 4, C#
@@ -16,15 +18,13 @@ visual studio 2013으로 개발
 
 
 
+  
 
+##### 소스 코드를 보실려면?
 
-소스 코드를 보실려면?
+클라이언트 코드 경로 : Shanghai/Assets/Scripts/  
 
-클라이언트 코드 경로
-shanghaiOnline/Shanghai/Assets/Scripts/
-
-서버 코드 경로
-shanghaiOnline/shanghai_server/shanghai_server/
+서버 코드 경로 : shanghai_server/shanghai_server/  
 
 학부 수준의 코드라 좋진 않습니다..
 감사합니다 :)
