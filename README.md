@@ -22,3 +22,6 @@ visual studio 2013으로 개발
 
 학부 수준의 코드라 좋진 않습니다..
 감사합니다 :)
+
+##### 게임 영상을 보실려면?
+https://www.youtube.com/watch?v=S0JXCIlJf3Y
