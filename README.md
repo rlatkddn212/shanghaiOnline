@@ -9,9 +9,9 @@
 
 ##### 개발 도구
 
-visual studio 2013으로 개발
-클라이언트 : 유니티 4, C#
-서버 : C++, STL, iocp 사용
+visual studio 2013으로 개발  
+클라이언트 : 유니티 4, C#  
+서버 : C++, STL, iocp 사용  
 
 
   
