@@ -24,9 +24,9 @@ visual studio 2013으로 개발
 ## 소스 코드를 보실려면?
 
 클라이언트 코드 경로 : Shanghai/Assets/Scripts/    
-서버 코드 경로 : shanghai_server/shanghai_server/  
+서버 코드 경로(C++ IOCP) : shanghai_server/shanghai_server/  
 
-
+서버 코드 경로(Java NIO) : shanghai_server_Java_NIO/  
 
 ------------------------
 
