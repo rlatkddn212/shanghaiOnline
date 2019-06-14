@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=S0JXCIlJf3Y
 
 2) 상태 다이어그램
 
-!![1560470459989](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470459989.png)
+![1560470459989](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470459989.png)
 
 구현을 하면서 상태 관리가 복잡해져 상태 다이어그램을 그려 관리 했습니다. User의 상태나 Room의 상태 변화에 따라 로직 처리가 달라지게 됩니다.  
 
