@@ -2,9 +2,9 @@
 
 
 
-![1560470261848](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470261848.png)
+![1560470261848](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470261848.png)
 
-![1560470269000](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470269000.png)
+![1560470269000](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470269000.png)
 
 
 
@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=S0JXCIlJf3Y
 
 2) 상태 다이어그램
 
-   ![1560470459989](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470459989.png)
+   ![1560470459989](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470459989.png)
 
 구현을 하면서 상태 관리가 복잡해져 상태 다이어그램을 그려 관리 했습니다. User의 상태나 Room의 상태 변화에 따라 로직 처리가 달라지게 됩니다.  
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=S0JXCIlJf3Y
 
 **게임 대기실 부분**
 
-   ![1560470475732](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470475732.png)
+   ![1560470475732](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470475732.png)
 
 
 
@@ -100,7 +100,7 @@ Lobby 클래스는 시작 시 네트워크 연결을 한 뒤 로비에서의 기
 
 **게임 룸 부분**
 
-   ![1560470492698](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470492698.png)
+   ![1560470492698](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470492698.png)
 
 GameManager는 게임에 관한 모든 로직들을 관리합니다. 적(Opponent)들과 맵(TileMap)의 상태들 유저의 상태등 게임 상태 변화를 서버에서 받아와 처리하는 일들을 합니다.
 
@@ -108,7 +108,7 @@ GameManager는 게임에 관한 모든 로직들을 관리합니다. 적(Opponen
 
 **네트워크 연결 및 데이터 처리 부분**  
 
- ![1560470498110](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470498110.png)
+ ![1560470498110](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470498110.png)
 
    
 
@@ -122,7 +122,7 @@ workThread에서 데이터를 받으면 Router를 생성하여 어떤 데이터�
 
 네트워크는 C++은 IOCP를 사용했습니다.  
 
- ![1560470504235](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470504235.png)
+ ![1560470504235](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470504235.png)
 
    
 
@@ -134,7 +134,7 @@ workThread에서 데이터를 받으면 Router를 생성하여 어떤 데이터�
 
 **유저 관리 부분**
 
- ![1560470516385](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470516385.png)
+ ![1560470516385](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470516385.png)
 
    
 
@@ -152,6 +152,6 @@ GameRoom 클래스는 게임룸에 관련된 기능을 수행합니다. 방에 �
 
    
 
- ![1560470522755](C:\Users\swkim\AppData\Roaming\Typora\typora-user-images\1560470522755.png)
+ ![1560470522755](https://github.com/rlatkddn212/shanghaiOnline/blob/master/assets/1560470522755.png)
 
 ShanghaiMap 클래스는 서버를 시작하기 전 txt파일에서 Json형식의 맵 데이터를 불러와 vector에 저장 해두고 필요 할 때 꺼내서 사용할 수 있는 클래스입니다. 맵을 랜덤으로 셔플하는 기능도 있습니다.
